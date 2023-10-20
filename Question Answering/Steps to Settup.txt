@@ -1,0 +1,5 @@
+1.Please Copy paste Flask.py, DATA folder, req.txt and Helper.py file to respective file loction.
+2.If there is no Local mongodb then Please install Mongodb compass on Server.
+3.Run req.txt file to all required libraries is install on Server.
+4.run "python Flask.py" file and your Flaskserver will be up and do dry run to test the system.
+5.
